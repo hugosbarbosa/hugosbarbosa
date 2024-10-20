@@ -26,7 +26,6 @@
   <a href="https://www.linkedin.com/in/hugo-barbosa-3a2152322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  <a href = "https://web.dio.me/users/hugo_barbosa2005" target= "_blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/hugo-barbosa-3a2152322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=100:60efff,20:0061ff,&section=footer&textBg=false&animation=twinkling&fontColor=fffff1&strokeWidth=0&descSize=1"/>
